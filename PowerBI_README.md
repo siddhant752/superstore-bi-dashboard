@@ -62,7 +62,7 @@ Top customers, segment distribution, regional breakdown, and shipping preference
 ![Customer Insights](page4_customer_insights.png)
 
 **Key Insights:**
-- Corporate segment generates the highest revenue per customer
+- Consumer segment generates the highest revenue per customer
 - Standard Class is the most used shipping mode by far
 - West and East regions dominate customer distribution
 
