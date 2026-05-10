@@ -150,7 +150,7 @@ This dashboard is the visual complement to my **SQL analysis** of the same datas
 ## 👤 Author
 
 **Siddhant Bhandari**
-MS Business Analytics | Available for full-time Data Analyst / BI Analyst roles (OPT)
+MS Business Analytics |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhantb9)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddhant752)
